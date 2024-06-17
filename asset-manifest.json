@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/disto/static/css/main.b9f50eaa.css",
+    "main.js": "/disto/static/js/main.51a61bc2.js",
+    "static/media/myv.png": "/disto/static/media/myv.d80173c5ce8d98e5244d.png",
+    "static/media/q1.png": "/disto/static/media/q1.70f4b262b89f49caabdc.png",
+    "static/media/Inicio.png": "/disto/static/media/Inicio.2aac0691444759b4ed14.png",
+    "static/media/vision.jpg": "/disto/static/media/vision.cc784696fe72e7cb7fe3.jpg",
+    "static/media/os.png": "/disto/static/media/os.71dbf813ba941e406b98.png",
+    "static/media/an.png": "/disto/static/media/an.d195c2a86a569dde2220.png",
+    "static/media/pa.png": "/disto/static/media/pa.16eaf002c434e1ec6fdd.png",
+    "static/media/mision.jpeg": "/disto/static/media/mision.cef991b4f514436c1623.jpeg",
+    "static/media/descripcion.jpeg": "/disto/static/media/descripcion.9b6ed14758998be93eaa.jpeg",
+    "index.html": "/disto/index.html",
+    "main.b9f50eaa.css.map": "/disto/static/css/main.b9f50eaa.css.map",
+    "main.51a61bc2.js.map": "/disto/static/js/main.51a61bc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f50eaa.css",
+    "static/js/main.51a61bc2.js"
+  ]
+}

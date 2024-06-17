@@ -1,0 +1,24 @@
+.card2{
+    margin-top: 1300px;
+    display: flex;
+    flex: 1;
+    margin-left: 2%;
+    width: 96%;
+    position: absolute;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.247);
+  }
+  .descripcion1{
+    height: 650px;
+    width: 49%;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  .texto1{
+    height: 650px;
+    width: 49%;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    font-size: clamp(16px, 4vw, 1px);
+  }

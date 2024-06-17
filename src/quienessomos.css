@@ -1,0 +1,87 @@
+.body{
+    background-color: #242942;
+}
+
+.tex1{
+    font-size: 180%;
+    font-weight: auto;
+  }
+  .intro{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60%;
+    height: 120%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    color: #fff; 
+    text-align: start;
+    padding-left: 10%;
+  }
+  .lore{
+    width: 70%;
+  }
+  @media screen and (max-width: 400px) {
+    .intro{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+    .tex1{
+      width: 100%;
+    }
+    .lore{
+        width: 100%;
+    }
+  }
+  .card1{
+    display: flex;
+    margin-top: 600px;
+  }
+  .an{
+    height: 450px;
+    width: 350px;
+    margin: 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(168, 168, 168, 0.733);
+  }
+  .an1{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+  }
+  .pa{
+    height: 450px;
+    width: 350px;
+    margin: 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(168, 168, 168, 0.733);
+  }
+  .pa1{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+  }
+  .os{
+    height: 450px;
+    width: 350px;
+    margin: 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(168, 168, 168, 0.733);
+  }
+  .os1{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+  }
+
+  @media all and (max-width: 1000px){
+    .card1{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+    
+  }

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9f50eaa.css",
+    "main.js": "/static/js/main.a55f1f55.js",
+    "static/media/myv.png": "/static/media/myv.d80173c5ce8d98e5244d.png",
+    "static/media/q1.png": "/static/media/q1.70f4b262b89f49caabdc.png",
+    "static/media/Inicio.png": "/static/media/Inicio.2aac0691444759b4ed14.png",
+    "static/media/vision.jpg": "/static/media/vision.cc784696fe72e7cb7fe3.jpg",
+    "static/media/os.png": "/static/media/os.71dbf813ba941e406b98.png",
+    "static/media/an.png": "/static/media/an.d195c2a86a569dde2220.png",
+    "static/media/pa.png": "/static/media/pa.16eaf002c434e1ec6fdd.png",
+    "static/media/mision.jpeg": "/static/media/mision.cef991b4f514436c1623.jpeg",
+    "static/media/descripcion.jpeg": "/static/media/descripcion.9b6ed14758998be93eaa.jpeg",
+    "index.html": "/index.html",
+    "main.b9f50eaa.css.map": "/static/css/main.b9f50eaa.css.map",
+    "main.a55f1f55.js.map": "/static/js/main.a55f1f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f50eaa.css",
+    "static/js/main.a55f1f55.js"
+  ]
+}
